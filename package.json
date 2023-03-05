@@ -1,0 +1,33 @@
+{
+  "name": "xj-cli",
+  "version": "1.0.0",
+  "description": "脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xj": "./bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flower-guest/xj-cli.git"
+  },
+  "keywords": [
+    "VUE3、project、template、cli"
+  ],
+  "author": "Flower-guest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flower-guest/xj-cli/issues"
+  },
+  "homepage": "https://github.com/Flower-guest/xj-cli#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^10.0.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.0.0",
+    "loading-cli": "^1.1.0"
+  }
+}
