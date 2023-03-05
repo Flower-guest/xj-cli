@@ -7,7 +7,8 @@
 
 ## 使用
 
-目前主要功能为create命令，使用方法 cxj create packageName。
+目前主要功能为create命令，使用方法类似 vue-cli，具体可以参考图片。
+![](./images/xj-cli.png)
 
 ## 采用第三方模块
 
