@@ -2,7 +2,7 @@
 
 - 版本 1.0.0
 - 功能: 支持下载模板 `create` 命令
-- 全局命令可使用 `cxj`
+- 全局命令可使用 `xj`
 - 项目技术：VUE3 + TS + Pnina + Vite  [仓库地址](https://github.com/Flower-guest/projectBuildTemplate)
 
 ## 使用
